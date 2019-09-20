@@ -5,7 +5,7 @@ This repository contains code as part of my internship at GSI Technology in 2019
     * Code for loading training data
     * Code for extracting hamming fingerprints from signal embeddings
     * Code for visualizing signal embeddings in t-SNE
-* Introduction to Facebook Artificial Intelligce Similarity Search (FAISS)
+* Introduction to Facebook Artificial Intelligence Similarity Search (FAISS)
 
 # Getting Started
 * To start training from scratch, go to the notebook here:
