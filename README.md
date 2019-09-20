@@ -15,4 +15,6 @@ This repository contains code as part of my internship at GSI Technology in 2019
 * Once you have trained your ResNet go to **faiss_hamming.ipynb** to extract binary fingerprints and run similarity search on the signals.
 
 # References:
-This work was inspired by the paper *Over the Air Deep Learning Based Signal Classification* by Tim O'Shea et. al.
+This work was inspired by: 
+* *Over the Air Deep Learning Based Signal Classification* by Tim O'Shea et. al. 
+* FAISS Project: https://github.com/facebookresearch/faiss/wiki/Getting-started
