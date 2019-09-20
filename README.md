@@ -5,3 +5,6 @@ This repository contains code as part of my internship at GSI Technology in 2019
 * Code for loading training data
 * Code for extracting hamming fingerprints from signal embeddings
 * Code for visualizing signal embeddings in t-SNE
+
+# References:
+This work was inspired by the paper *Over the Air Deep Learning Based Signal Classification*
